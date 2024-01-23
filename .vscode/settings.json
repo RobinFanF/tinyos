@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "print.h": "c",
+        "interrupt.h": "c",
+        "debug.h": "c",
+        "string.h": "c",
+        "global.h": "c",
+        "bitmap.h": "c",
+        "stdint.h": "c",
+        "memory.h": "c",
+        "cstdint": "c",
+        "init.h": "c"
+    }
+}
